@@ -1,0 +1,14 @@
+{
+  "name": "calc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "electron . --no-sandbox"
+  },
+  "author": "Mikheil Gogia",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^26.3.0"
+  }
+}
